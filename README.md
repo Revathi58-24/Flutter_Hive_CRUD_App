@@ -1,16 +1,18 @@
-# demo2
+📘 Flutter Hive CRUD App
 
-A new Flutter project.
+A simple Flutter application demonstrating CRUD (Create, Read, Update, Delete) operations using the Hive local database.
+The app lets users add, view, update, and delete student details such as name and age.
+It works perfectly on Chrome, Edge, and Android — no Gradle setup needed!
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+➕ Add Student
 
-A few resources to get you started if this is your first Flutter project:
+✏️ Edit and Update Student
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+❌ Delete Individual Student
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧹 Clear All Students
+
+💾 Data stored locally using Hive (IndexedDB on web)
+
